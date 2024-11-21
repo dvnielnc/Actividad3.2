@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "846214656745",
+    "project_id": "mascotas-5f927",
+    "storage_bucket": "mascotas-5f927.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846214656745:android:c7a0e82e39439fd494f678",
+        "android_client_info": {
+          "package_name": "com.santotomas.proyectofirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNr68fF0k2sGn8avO7bNqGLWuk8T-8D4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846214656745:android:8d0ba34e8c98778d94f678",
+        "android_client_info": {
+          "package_name": "com.stomas.proyectofirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNr68fF0k2sGn8avO7bNqGLWuk8T-8D4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
